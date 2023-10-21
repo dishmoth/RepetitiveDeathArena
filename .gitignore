@@ -79,5 +79,8 @@ PackageOutput/*
 # Source data for content
 RawContent/*
 
+# Experiments
+Content/Test/*
+
 # Non-shareable files
 Content/Audio/*
